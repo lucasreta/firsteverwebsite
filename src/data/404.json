@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Heading",
+    "properties": {
+      "text": "Not Found"
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "The requested URL was not found on this server."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "HypertextAnchor",
+    "properties": {
+      "hypertextReference": "/",
+      "hyperlinkUserReadableValue": "Go Home.",
+      "isThisAnInternalHyperlink": "yes"
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "DISCLAIMER: The official first page did not include a link to go back to the homepage. "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "http://info.cern.ch/hypertext/WWW/Administration/Mailing/Overview.html",
+            "hyperlinkUserReadableValue": "Reference.",
+            "isThisAnInternalHyperlink": "no"
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,6 +1,52 @@
-# Getting Started with Create React App
+# First Ever Website Refactor Extraordinaire
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's been 30 years, let's update the first website ever to reflect the correct 
+way of doing things, now that we know better.
+
+_A joke born out of [this reddit thread.](https://www.reddit.com/r/webdev/comments/lyg5cx/behold_the_first_ever_web_page/gpsuvb8?utm_source=share&utm_medium=web2x&context=3)_
+
+----
+
+## Development Process
+
+We start by creating our app with `create-react-app`:
+
+```
+npx create-react-app firsteverwebsite
+```
+
+This leaves us with a perfectly fine, in-no-way-overly-bloated boilerplate we 
+can use to start coding our application. It just downloads a modest 179,1 MB. 
+Makes me doubt if that'll even be enough to store all that we need: I don't like 
+to start development until my node_modules folder weighs _at least_ 2 gigs.
+
+We'll probably use react-router-dom, lodash and axios later on, so let's install 
+them now to avoid later hassle:
+
+```
+npm i -S react-router-dom axios lodash
+```
+
+Knowing that I have those tools installed, I feel confident enough to start 
+development.
+
+First off, let's run the eject script so I can remove it from the Available 
+Scripts portion of this file:
+
+```
+npm run eject
+```
+
+The first step I like to take is creating a utils folder, as you always need a 
+generic utils folder with many different scripts that don't fit into any other, 
+more descriptive folder. Inside of it I like to create the `utils.js` script. In 
+this project I will call it `multipleUsefulTools.js`, as I think that says a bit 
+more than just naming it `utils.js`. We don't need to add anything to it yet, 
+we'll come back to it later.
+
+Let's go ahead and create the `views`, `components` and `data` directories as 
+well.
+
 
 ## Available Scripts
 
@@ -28,43 +74,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

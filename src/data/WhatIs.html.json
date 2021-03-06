@@ -1,0 +1,244 @@
+[
+  {
+    "type": "Heading",
+    "properties": {
+      "text": "What is HyperText"
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "Hypertext is text which is not constrained to be linear."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "Hypertext is text which contains "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "Terms.html#link",
+            "hyperlinkUserReadableValue": "links",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": " to other texts. The term was coined by "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "Xanadu.html#Nelson",
+            "hyperlinkUserReadableValue": "Ted Nelson",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": " around 1965 (see "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "History.html",
+            "hyperlinkUserReadableValue": "History",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": ")."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "HyperMedia is a term used for hypertext which is not constrained to be text: it can include graphics, video and "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "Talks/YesWeCan.snd",
+            "hyperlinkUserReadableValue": "sound",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": ", for example. Apparently Ted Nelson was the first to use this term too."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "Hypertext and HyperMedia are concepts, not products."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "See also:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "UnorderedList",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "ListItem",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Terms.html",
+                  "hyperlinkUserReadableValue": "A list of terms",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": " used in hypertext litterature."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "ListItem",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../Conferences/Overview.html",
+                  "hyperlinkUserReadableValue": "Conferences",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "ListItem",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../Products/Overview.html",
+                  "hyperlinkUserReadableValue": "Commercial (and academic) products",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "ListItem",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "A newsgroup on hypertext, "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "news:alt.hypertext",
+                  "hyperlinkUserReadableValue": "\"alt.hypertext\"",
+                  "isThisAnInternalHyperlink": "no"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "ListItem",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "TheProject.html",
+                  "hyperlinkUserReadableValue": "WorldWideWeb is a project",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": " which uses hypertext concepts."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "ListItem",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../Standards/Overview.html",
+                  "hyperlinkUserReadableValue": "Standards",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

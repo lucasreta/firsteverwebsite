@@ -1,0 +1,517 @@
+[
+  {
+    "type": "Heading",
+    "properties": {
+      "text": "World Wide Web"
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "The WorldWideWeb (W3) is a wide-area "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "WhatIs.html",
+            "hyperlinkUserReadableValue": "hypermedia",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": " information retrieval initiative aiming to give universal access to a large universe of documents."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "Paragraph",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "Everything there is online about W3 is linked directly or indirectly to this document, including an "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "Summary.html",
+            "hyperlinkUserReadableValue": "executive summary",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": " of the project, "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "Administration/Mailing/Overview.html",
+            "hyperlinkUserReadableValue": "Mailing lists",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": ", "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "Policy.html",
+            "hyperlinkUserReadableValue": "Policy",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": ", November's "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "News/9211.html",
+            "hyperlinkUserReadableValue": "W3  news",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": ", "
+          }
+        },
+        {
+          "type": "HypertextAnchor",
+          "properties": {
+            "hypertextReference": "FAQ/List.html",
+            "hyperlinkUserReadableValue": "Frequently Asked Questions",
+            "isThisAnInternalHyperlink": "yes"
+          }
+        },
+        {
+          "type": "Plaintext",
+          "properties": {
+            "content": "."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "DescriptionList",
+    "properties": {
+      "contentEntity": [
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../DataSources/Top.html",
+                  "hyperlinkUserReadableValue": "What's out there?",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "Pointers to the world's online information, "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../DataSources/bySubject/Overview.html",
+                  "hyperlinkUserReadableValue": "subjects",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../DataSources/WWW/Servers.html",
+                  "hyperlinkUserReadableValue": "W3 servers",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", etc."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Help.html",
+                  "hyperlinkUserReadableValue": "Help",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "on the browser you are using"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Status.html",
+                  "hyperlinkUserReadableValue": "Software Products",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "A list of W3 project components and their current state. (e.g. "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "LineMode/Browser.html",
+                  "hyperlinkUserReadableValue": "Line Mode",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", X11 "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Status.html#35",
+                  "hyperlinkUserReadableValue": "Viola",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "NeXT/WorldWideWeb.html",
+                  "hyperlinkUserReadableValue": "NeXTStep",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Daemon/Overview.html",
+                  "hyperlinkUserReadableValue": "Servers",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Tools/Overview.html",
+                  "hyperlinkUserReadableValue": "Tools",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "MailRobot/Overview.html",
+                  "hyperlinkUserReadableValue": "Mail robot",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Status.html#57",
+                  "hyperlinkUserReadableValue": "Library",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ")"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Technical.html",
+                  "hyperlinkUserReadableValue": "Technical",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "Details of protocols, formats, program internals etc"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Bibliography.html",
+                  "hyperlinkUserReadableValue": "Bibliography",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "Paper documentation on  W3 and references."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "People.html",
+                  "hyperlinkUserReadableValue": "People",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "A list of some people involved in the project."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "History.html",
+                  "hyperlinkUserReadableValue": "History",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "A summary of the history of the project."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "Helping.html",
+                  "hyperlinkUserReadableValue": "How can I help?",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "If you would like to support the web.."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionTerm",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "../README.html",
+                  "hyperlinkUserReadableValue": "Getting code",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DescriptionDetails",
+          "properties": {
+            "contentEntity": [
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": "Getting the code by "
+                }
+              },
+              {
+                "type": "HypertextAnchor",
+                "properties": {
+                  "hypertextReference": "LineMode/Defaults/Distribution.html",
+                  "hyperlinkUserReadableValue": "anonymous FTP",
+                  "isThisAnInternalHyperlink": "yes"
+                }
+              },
+              {
+                "type": "Plaintext",
+                "properties": {
+                  "content": ", etc."
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
